@@ -1,6 +1,6 @@
-# KCT
+# Halo Semua...
 
-Akun GitHub resmi KCT. Informasi tentang perusahaan dan layanan kami ada di [kct.co.id](https://kct.co.id).
+Ini adalah Akun GitHub resmi KCT. Informasi tentang perusahaan dan layanan kami ada di [kct.co.id](https://kct.co.id).
 
 ## Proyek
 
